@@ -1,0 +1,27 @@
+{
+
+    "description": "Dark mode for NYT Connections.",
+    "manifest_version": 3,
+    "name": "Connections Dark Mode",
+    "author": "Asia Rouse",
+    "version": "1.0",
+    "icons": {
+      "48": "connections-logo.png"
+    },
+    
+    "action": {
+        "default_icon": "connections-logo.png"
+    },
+
+    "content_scripts": [
+        {
+          "matches": ["https://*.nytimes.com/games/connections/*"],
+          "css": ["style.css"]
+        }
+    ],
+
+    "permissions": [
+        "scripting"
+    ]
+  
+  }

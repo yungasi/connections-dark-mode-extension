@@ -1,0 +1,118 @@
+/* background, landing */
+body, #js-global-nav {
+    background-color: #1a1a1a;
+}
+  
+.pz-footer__wrapper {
+    background-color: #1a1a1a;
+    color: #e6e6e6;
+}
+
+.pz-footer {
+    background-color: #1a1a1a;
+}
+
+#js-hook-pz-moment__game > div.pz-game-toolbar.xwd__hide-when-no-data {
+    background-color: #1a1a1a;
+}
+
+#js-hook-pz-moment__welcome > div {
+    background-color: #7d75b2 !important;
+    color: #e6e6e6;
+}
+
+#js-hook-pz-moment__welcome > div > div > div > div:nth-child(6) > div.pz-moment__button-wrapper.vertical button {
+    color: #e6e6e6;
+}
+
+#js-hook-pz-moment__welcome > div > div > div > p > span.pz-moment__info-date {
+    color: #e6e6e6;
+}
+
+#js-hook-pz-moment__welcome > div > div > div > div:nth-child(5) > div > button {
+    background: #e6e6e6;
+    color: #000;
+}
+
+/* game */
+#connections-container > div.pz-row.pz-game-title-bar.xwd__hide-when-no-data, #pz-game-root > article > section:nth-child(2) > span {
+    color: #e6e6e6;
+}
+
+#js-hook-pz-moment__game > div.pz-game-toolbar.xwd__hide-when-no-data > div, #pz-game-root {
+    background-color: #1a1a1a;
+}
+
+#default-choices > fieldset > div > div * {
+    background-color: #d7d7cf;
+}
+
+#pz-game-root > article > section:nth-child(2) > span > p {
+    color: #e6e6e6 !important;
+}
+
+#pz-game-root > article > section.Board-module_boardActionGroup__mUDT8 > button.ActionButton-module_button__IlhXt.ActionButton-module_xSmall__WP4hl {
+    background-color: #fff !important;
+    color: #000 !important;
+}
+
+#default-choices > h2 {
+    color: #fff;
+}
+
+/* settings & info */
+#modalWrapper-overlay {
+    background-color: #4b4b4b;  
+}
+
+#portal-modal-system > div > div > div.xwd__modal--body.modal-settings-body.animate-opening {
+    background-color: #1a1a1a;
+}
+
+#portal-modal-system > div > div > div.xwd__modal--body.modal-rules-body.animate-opening {
+    background-color: #1a1a1a;
+}
+
+#portal-modal-system > div > div > div.xwd__modal--body.modal-settings-body.animate-opening > article > div {
+    color: #fff;
+}
+
+#portal-modal-system > div > div > div.xwd__modal--body.modal-rules-body.animate-opening {
+    color: #fff;
+}
+
+/* header */
+#js-nav-burger > span > span {
+    background-color: #e6e6e6;
+}
+
+#js-nav-burger > span > span::before {
+    background-color: #e6e6e6;
+}
+
+#js-nav-burger > span > span::after {
+    background-color: #e6e6e6;
+}
+
+#js-logo-nav > svg > rect {
+    fill: #1a1a1a;
+}
+
+#js-logo-nav > svg path {
+    fill: #e6e6e6;
+}
+
+#js-global-nav {
+    box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3);
+}
+
+/* nav */
+#js-nav-drawer {
+    background: #1a1a1a;
+    color: #e6e6e6;
+    box-shadow: 3px 6px 6px rgba(255, 255, 255, .3);
+}
+
+.pz-nav-drawer__link:hover, .pz-nav-drawer__link:focus, .pz-nav-drawer__link:active, .pz-nav-drawer__link.selected {
+    background-color: #666666 !important;
+}
